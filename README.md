@@ -45,8 +45,6 @@ Currently, I am seeking a junior software engineering role where I can continue 
 
 
 <br />
-<br />
----
 
 
 # 📫 Let's connect!
