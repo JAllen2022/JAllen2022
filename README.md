@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jason.
+# Hi there 👋 I'm Jason.
 
 - 🔭 I’m currently working on my virtual journaling project, Goal-e
 - 🌱 I'm currently learning TypeScript
@@ -26,7 +26,7 @@ With my newfound skills, I have a strong passion for using my abilities to benef
 
 Currently, I am seeking a junior software engineering role where I can continue to grow and develop my skills, as well as freelance projects or collaboration opportunities with other developers. If you're interested in working together, please don't hesitate to reach out!
 
-### Languages and Tools:
+# Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
