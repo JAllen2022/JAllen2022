@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my virtual journaling project, Goal-e
 - 🌱 I'm currently learning TypeScript
-- 📫 How to reach me by email: jasonallen715@gmail.com
 
 <!--
 **JAllen2022/JAllen2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,9 +26,9 @@ With my newfound skills, I have a strong passion for using my abilities to benef
 
 Currently, I am seeking a junior software engineering role where I can continue to grow and develop my skills, as well as freelance projects or collaboration opportunities with other developers. If you're interested in working together, please don't hesitate to reach out!
 
-# 📫 How to reach me:
-- LinkedIn
-- WellFound
+# 📫 Let's connect!
+<a href="https://www.linkedin.com/in/jasonallen715/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:jasonallen715@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
