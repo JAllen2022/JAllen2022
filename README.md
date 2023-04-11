@@ -54,7 +54,6 @@ Currently, I am seeking a junior software engineering role where I can continue 
   
 <br />
 
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
