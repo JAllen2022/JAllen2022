@@ -50,6 +50,10 @@ Currently, I am seeking a junior software engineering role where I can continue 
 # 📫 Let's connect!
 <a href="https://www.linkedin.com/in/jasonallen715/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="mailto:jasonallen715@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  
+  
+  <br />
+  <br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
