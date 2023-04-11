@@ -46,7 +46,6 @@ Currently, I am seeking a junior software engineering role where I can continue 
 
 <br />
 <br />
-<br />
 
 # 📫 Let's connect!
 <a href="https://www.linkedin.com/in/jasonallen715/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
