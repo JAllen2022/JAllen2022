@@ -52,8 +52,9 @@ Currently, I am seeking a junior software engineering role where I can continue 
 <a href="mailto:jasonallen715@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   
   
-  <br />
-  <br />
+<br />
+
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
