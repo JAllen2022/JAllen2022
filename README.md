@@ -65,7 +65,7 @@ Currently, I am seeking a junior software engineering role where I can continue 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallen2022" />
+<img align="left" alt="Jason's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jallen2022" />
 
 </details>
 
