@@ -14,8 +14,6 @@
 
 I'm a product engineer at **QA Wolf**, where I work on the side of an AI testing agent that customers actually touch: the pages, APIs, and safeguards they use to point it at their app and ship what it generates.
 
-Almost everything I build lives in a private monorepo, so this profile is quieter than my commit history. The one public artifact is [`@qawolf/eslint-plugin-pom`](https://github.com/qawolf/eslint-plugin-pom), an ESLint plugin for keeping AI-generated tests well-structured.
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,prisma,kubernetes,docker,python&theme=light" alt="stack" />
 </p>
